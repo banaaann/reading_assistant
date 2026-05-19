@@ -1,0 +1,143 @@
+[
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "senses": [
+      { "part_of_speech": "adverb", "definitions": ["向后", "返回原处"] },
+      { "part_of_speech": "noun", "definitions": ["背部", "后面"] },
+      { "part_of_speech": "verb", "definitions": ["支持", "倒退"] }
+    ]
+  },
+  {
+    "word": "bait",
+    "phonetic": "/beɪt/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["诱饵", "引诱物"] },
+      { "part_of_speech": "verb", "definitions": ["以诱饵引诱", "故意激怒"] }
+    ]
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "senses": [
+      { "part_of_speech": "adjective", "definitions": ["黑暗的", "昏暗的"] }
+    ]
+  },
+  {
+    "word": "dead",
+    "phonetic": "/ded/",
+    "senses": [
+      { "part_of_speech": "adjective", "definitions": ["死去的", "失去活力的"] },
+      { "part_of_speech": "noun", "definitions": ["死者"] }
+    ]
+  },
+  {
+    "word": "frighten",
+    "phonetic": "/ˈfraɪtn/",
+    "senses": [
+      { "part_of_speech": "verb", "definitions": ["使害怕", "使惊恐"] }
+    ]
+  },
+  {
+    "word": "grow",
+    "phonetic": "/ɡroʊ/",
+    "senses": [
+      { "part_of_speech": "verb", "definitions": ["生长", "变得"] }
+    ]
+  },
+  {
+    "word": "keyword",
+    "phonetic": "/ˈkiːwɜːrd/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["关键词"] }
+    ]
+  },
+  {
+    "word": "lookup",
+    "phonetic": "/ˈlʊkʌp/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["查找"] },
+      { "part_of_speech": "verb", "definitions": ["查阅", "查询"] }
+    ]
+  },
+  {
+    "word": "popup",
+    "phonetic": "/ˈpɑːpʌp/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["弹出窗口"] }
+    ]
+  },
+  {
+    "word": "reading",
+    "phonetic": "/ˈriːdɪŋ/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["阅读", "读物"] }
+    ]
+  },
+  {
+    "word": "selection",
+    "phonetic": "/sɪˈlekʃn/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["选中的内容", "选择"] }
+    ]
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["句子"] }
+    ]
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃʊd/",
+    "senses": [
+      { "part_of_speech": "modal", "definitions": ["应该"] }
+    ]
+  },
+  {
+    "word": "start",
+    "phonetic": "/stɑːrt/",
+    "senses": [
+      { "part_of_speech": "verb", "definitions": ["开始", "着手"] },
+      { "part_of_speech": "noun", "definitions": ["开始", "起点"] }
+    ]
+  },
+  {
+    "word": "translation",
+    "phonetic": "/trænsˈleɪʃn/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["翻译", "译文"] }
+    ]
+  },
+  {
+    "word": "trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "senses": [
+      { "part_of_speech": "verb", "definitions": ["触发", "引发"] },
+      { "part_of_speech": "noun", "definitions": ["触发器"] }
+    ]
+  },
+  {
+    "word": "urge",
+    "phonetic": "/ɜːrdʒ/",
+    "senses": [
+      { "part_of_speech": "verb", "definitions": ["催促", "力劝"] },
+      { "part_of_speech": "noun", "definitions": ["强烈欲望", "冲动"] }
+    ]
+  },
+  {
+    "word": "vocabulary",
+    "phonetic": "/vəˈkæbjəleri/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["词汇", "词汇量"] }
+    ]
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "senses": [
+      { "part_of_speech": "noun", "definitions": ["木头", "树林"] }
+    ]
+  }
+]
